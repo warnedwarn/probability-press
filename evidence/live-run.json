@@ -1,0 +1,32 @@
+{
+  "forecastId": "PRESS-1792250613",
+  "transactions": {
+    "openForecast": "0x679eb38e07c6a50e0cb4256f452505060d086270cf39617f04dbc4245b85b0e5",
+    "duplicateForecastRejected": "0xd204cbf1606aed3f55ca565c63579e23027ced3d5ac0bc0800e033cd63b031c1",
+    "resolveForecast": "0x86b7a91b68829455ec91fbacf8a9b23438f80bf0f726d58f1310598515612542"
+  },
+  "negativeExecution": "ERROR",
+  "stateUnchangedAfterDuplicateRejection": true,
+  "forecast": {
+    "claim": "The public port notice will report Berth 4 open for commercial arrivals.",
+    "criteria": "Mark OCCURRED only if the outcome bulletin explicitly states that Berth 4 opened for commercial arrivals on the named date.",
+    "forecast_digest": "6c81c1d295938927014ae6dfd9556dea7c354a88b6c1013c31c5398111cbec3d",
+    "forecast_url": "https://cdn.jsdelivr.net/gh/warnedwarn/probability-press@main/fixtures/forecast.md",
+    "id": "PRESS-1792250613",
+    "label": "Berth 4 opening",
+    "opened_at": 1792250617,
+    "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "probability": 70,
+    "resolve_after": 1792250618,
+    "state": "SCORED"
+  },
+  "resolution": {
+    "outcome": "OCCURRED",
+    "outcome_digest": "ed6f246b3a95849fd289abbe91cde2c03a5e9db0d1253eb6387a318f0039c30b",
+    "outcome_url": "https://raw.githack.com/warnedwarn/probability-press/main/fixtures/outcome.md",
+    "rationale": "The outcome source explicitly states that Berth 4 opened for commercial arrivals on the named operating date.",
+    "resolved_by": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "score_millis": 90
+  },
+  "fixtureDisclosure": "Both records are operator-controlled fixtures on distinct delivery hosts."
+}

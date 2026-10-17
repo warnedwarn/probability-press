@@ -26,4 +26,12 @@ genvm-lint contracts/contract.py
 
 Fixtures are operator-controlled technical records. Different hosts demonstrate origin and digest enforcement; they are not represented as independent publishers.
 
-Deployment coordinates and finalized transactions are written to `deployment.json` and `evidence/live-run.json` after StudioNet verification.
+### Verified StudioNet plate
+
+- Contract: [`0xFEeBE219B47E08D814Ab24Ad73193FF646113196`](https://explorer-studio.genlayer.com/address/0xFEeBE219B47E08D814Ab24Ad73193FF646113196)
+- Live forecast: `PRESS-1792250613`, final state `SCORED`, outcome `OCCURRED`, Brier score `0.090`
+- Open forecast: [`0x679e…b0e5`](https://explorer-studio.genlayer.com/transactions/0x679eb38e07c6a50e0cb4256f452505060d086270cf39617f04dbc4245b85b0e5)
+- Duplicate-ID rejection: [`0xd204…31c1`](https://explorer-studio.genlayer.com/transactions/0xd204cbf1606aed3f55ca565c63579e23027ced3d5ac0bc0800e033cd63b031c1)
+- Final resolution: [`0x86b7…2542`](https://explorer-studio.genlayer.com/transactions/0x86b7a91b68829455ec91fbacf8a9b23438f80bf0f726d58f1310598515612542)
+
+Exact source digest, deployment transaction, and stored readback live in `deployment.json` and `evidence/live-run.json`.

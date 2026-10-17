@@ -1,0 +1,11 @@
+{
+  "network": "StudioNet",
+  "account": "warnedwarn",
+  "contractAddress": "0xFEeBE219B47E08D814Ab24Ad73193FF646113196",
+  "deploymentTransaction": "0xf00571769203b465a2ef325af60d8bd76ac91959128b30f00bd2b790d3a5e77b",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "120d08a735fc49633733ef46bd5889c50d712b7a64b65a64a07ebf960a35d8a8",
+  "sourceCommit": "625629bf38dbf9b5fdae30f69575e03c0e2b99a5",
+  "repository": "https://github.com/warnedwarn/probability-press"
+}
