@@ -28,6 +28,8 @@ Fixtures are operator-controlled technical records. Different hosts demonstrate 
 
 ### Verified StudioNet plate
 
+- Public application: https://probability-press.pages.dev/
+- Source: https://github.com/warnedwarn/probability-press
 - Contract: [`0xFEeBE219B47E08D814Ab24Ad73193FF646113196`](https://explorer-studio.genlayer.com/address/0xFEeBE219B47E08D814Ab24Ad73193FF646113196)
 - Live forecast: `PRESS-1792250613`, final state `SCORED`, outcome `OCCURRED`, Brier score `0.090`
 - Open forecast: [`0x679e…b0e5`](https://explorer-studio.genlayer.com/transactions/0x679eb38e07c6a50e0cb4256f452505060d086270cf39617f04dbc4245b85b0e5)

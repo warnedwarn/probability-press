@@ -7,4 +7,4 @@
 | Different outcome host | `resolve_forecast` | stored forecast and outcome URLs | PASS |
 | Deterministic score | integer score formula | executable Brier tests + score `90` readback | PASS |
 | Duplicate ID cannot overwrite | `open_forecast` | ERROR transaction and unchanged readback | PASS |
-| Final browser uses deployed address | `docs/index.html` | static source check; public-build QA pending publication | PASS |
+| Final browser uses deployed address | `docs/index.html` | canonical Pages build loaded live score; no console errors or horizontal overflow | PASS |
